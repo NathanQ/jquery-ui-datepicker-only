@@ -2,7 +2,7 @@
 
 ## Install
 
-You can install this package either with `bower` and requires jQuery.
+You can install this package with `bower` and requires jQuery.
 
 ```shell
 bower install jquery-ui-datepicker-only --save
